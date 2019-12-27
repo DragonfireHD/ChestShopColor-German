@@ -9,3 +9,6 @@ Es wurde nur auf Deutsch übersetzt
 -DragonfireHD98
 Programmierer 
 -Soapx aka Plugin ChestShopColor 
+
+Plugin wurde für mein Server übersetzt ihr könnt es 
+Dennoch benutzen
