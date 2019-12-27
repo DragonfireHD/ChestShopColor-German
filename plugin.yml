@@ -3,7 +3,7 @@ main: ChestShop\ChestShop
 version: 6.6.6
 api: [3.0.0]
 load: POSTWORLD
-author: Dragonfirehd98 
+author: Dragonfirehd98
 description: 
 website: 
 depend:
