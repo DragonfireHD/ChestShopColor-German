@@ -45,7 +45,7 @@ class EventListener implements Listener
 				}
 				$buyerMoney = EconomyAPI::getInstance()->myMoney($player->getName());
 				if ($buyerMoney === false) {
-					$player->sendMessage("§eYour Data On This Server Does Not Exist!");
+					$player->sendMessage("§eIhre Daten auf diesem Server existieren nicht!");
 					return;
 				}
 				if ($buyerMoney < $shopInfo['price']) {
